@@ -1,0 +1,1 @@
+Ex. 1 - 18 from K&R The C programming language
